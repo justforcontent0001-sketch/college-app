@@ -1,2 +1,3 @@
 # college-app
-this is my first git repository 
+This app will blow your mind
+builder -- MEHRA
